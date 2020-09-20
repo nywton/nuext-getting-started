@@ -1,7 +1,8 @@
 # nuxt-fundamentals
 
+## See Aplication Runing
+Application is hosted by heroku at [Heroku Server](https://nuxt-getting-started.herokuapp.com/)
 ## Build Setup
-
 ```bash
 # install dependencies
 $ yarn install
